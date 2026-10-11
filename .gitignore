@@ -1,5 +1,4 @@
 # Ignore model checkpoints, optimizer states, and output folders
-models/
 results/
 *.pt
 *.pth
