@@ -1,0 +1,13 @@
+# Ignore model checkpoints, optimizer states, and output folders
+models/
+results/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Ignore Python cache & environment
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
